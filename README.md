@@ -2,6 +2,7 @@
 
  Carpool is an open source, multi-mount, minivan PCB compaatible keyboard case.
 
+<img src="https://raw.githubusercontent.com/dingusxmcgee/Carpool/main/Images/Carpool1.png" width="600" height="400">
  Carpool is designed to be used in the following ways:
  Coriander Plate: Top Mount
  Hull Plate: Top Mount
