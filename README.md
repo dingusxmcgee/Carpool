@@ -19,6 +19,8 @@ Carpool features a 2 piece case design, optional 5deg angle, cutout for a small 
 
 With optional 5deg angle, front height is 22.3mm. Without, it is 21mm.
 
+Bottom case is provided with both angle attached(using 3 less screws) and detached(for easier 3D printing). Bottom is designed for 19mm cork bumpons (like these https://www.amazon.com/Rockler-Self-Adhesive-Cork-Dots/dp/B001GH7JXW)
+
 Carpool uses the following screws to piece it all together: 
  * Bottom case to top case: m2.5 - sockethead or smaller - 8-11mm (4x)
  * Hull bottom mount plate: m2.5 - sockethead or smaller -  6-8mm (4x)
