@@ -16,7 +16,7 @@ Carpool is designed to be used in the following ways:
 * Hull Plate: Bottom Mount
 * Custom 'Leafspring Plates(jetvan and split space)': Sandwich Mount
 
-Carpool features a 2 piece case design, optional 5deg angle, cutout for a small battery(Airport Shuttle PCB support) and is compatible with all minivan or minivan inspired pcbs that fit within the approximately 243mmx76mm pcb size.
+Carpool features a 2 piece case design, optional 5deg angle, cutout for a small battery(Airport Shuttle PCB support) and is compatible with all minivan or minivan inspired pcbs that fit within the approximately 243mmx76mm pcb size(except Sketch).
 
 With optional 5deg angle, front height is 22.3mm. Without, it is 21mm.
 
